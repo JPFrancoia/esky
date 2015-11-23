@@ -1,3 +1,4 @@
+*.bat
 *.pyc
 *.pyo
 *~
@@ -10,10 +11,8 @@ esky/tests/build
 esky/tests/deploy*
 esky/tests/patch-test-temp
 esky/tests/eskytester.egg-info
-esky/eskytester.egg-info
 build/
 tutorial/*/dist
 esky/bdist_esky/bootstrap_*
+esky.egg-info/
 .idea/
-esky.egg-info
-.rst
