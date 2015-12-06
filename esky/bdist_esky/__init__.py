@@ -30,7 +30,6 @@ from glob import glob
 import distutils.command
 from distutils.core import Command
 from distutils.util import convert_path
-import freeze_future
 
 import esky.patch
 from esky.util import get_platform, is_core_dependency, create_zipfile, \
